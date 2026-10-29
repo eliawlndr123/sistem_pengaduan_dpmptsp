@@ -1,0 +1,25 @@
+.btn-beranda {
+    display: block;
+    width: 100%;
+    padding: 13px;
+    margin-top: 12px;
+
+    text-align: center;
+    text-decoration: none;
+
+    color: #23456d;
+    background-color: white;
+
+    border: 1px solid #23456d;
+    border-radius: 10px;
+
+    font-size: 15px;
+    font-weight: bold;
+
+    transition: 0.3s;
+}
+
+.btn-beranda:hover {
+    background-color: #23456d;
+    color: white;
+}
